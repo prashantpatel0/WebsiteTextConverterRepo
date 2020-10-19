@@ -1,5 +1,5 @@
 <h1>TextUtils.in</h1>
-This is a website which helps to Analyze your text by:- <br>
+<h4>This is a website helps you to Analyze your text by:- </h4> <br>
 Removing punctuation. <br>
 Making Whole Paragrapg in Uppercase. <br>
 Removing New Lines. <br>
@@ -16,5 +16,18 @@ Django <br>
 
 
 
+<h3>Analyzed Page</h3>
 
 
+
+![](Images/heropage.png)
+
+
+
+
+<h3>Mobile View</h3>
+
+
+
+
+![](Images/mobile.png)
