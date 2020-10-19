@@ -22,7 +22,7 @@ Django <br>
 
 
 
-![](Images/heropage.png)
+![](Images/outputpage.png)
 
 
 
