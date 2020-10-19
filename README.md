@@ -2,7 +2,7 @@
 TextUtils is a Website made with Python and Django. It takes Text from the user and gives analysis as per the users selection.
 <h4>This website helps you to Analyze your text by:- </h4> 
 Removing punctuation. <br>
-Making Whole Paragrapg in Uppercase. <br>
+Making Whole Paragraph in Uppercase. <br>
 Removing New Lines. <br>
 Removing Extra Space. <br>
 <h3>Prerequisites</h3> 
