@@ -33,3 +33,7 @@ Django <br>
 
 
 ![](Images/mobile.png)
+
+
+<h3>Credits</h3>
+It is a project Based on a Youtube Tutorial and a big thankyou to Code with Harry!!
